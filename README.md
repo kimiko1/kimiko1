@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://app.daily.dev/kimiko"><img src="https://api.daily.dev/devcards/afca78d9068841329144986fe5c34dc3.png?r=qa1" width="400" alt="bastien raoult's Dev Card"/></a>
-
+<p>My name is Bastien and this is my github page.</p>
 <!--
 **kimiko1/kimiko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
