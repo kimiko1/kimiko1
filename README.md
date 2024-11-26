@@ -1,16 +1,20 @@
-### Hi there 👋
-<p>My name is Bastien and this is my github page.</p>
-<!--
-**kimiko1/kimiko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Bastien Raoult
 
-Here are some ideas to get you started:
+💻 **Full Stack Developer in training at W3 Academy**  
+🎯 Passionate about creating efficient and dynamic web applications, always looking to improve and learn new technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Interests
+- **Frontend**: HTML, CSS, JavaScript (Vanilla, Frameworks)  
+- **Backend**: Node.js, PHP  
+- **Databases**: MySQL (Antares SQL)  
+- **Tools**: Git, Axios, PageFlip, Directus  
+
+## 🌟 Projects
+- 🔧 **[Interactive Flipbook](#)**: Built a responsive flipbook application with image conversion from PDF, user interaction enhancements, and full-screen navigation.  
+- 🗺️ **[Geolocation Projects](#)**: Web apps leveraging APIs to provide location-based features (e.g., nearby cinemas, postal addresses).  
+- 🎨 **[Canvas Drawing App](#)**: An organized and modularized application for creating and erasing drawings in real-time.  
+
+📫 **Contact Me**  
+Feel free to reach out: [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/bastien-raoult-605712295/)) | [Email](mailto:bastien.raoult1pro@gmail.com)
+
+🚀 Let's build something amazing together!
